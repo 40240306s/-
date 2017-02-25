@@ -1,0 +1,8 @@
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\bin\Release\大概是為忙碌的人做的驗算器.exe.config
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\bin\Release\大概是為忙碌的人做的驗算器.exe
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\bin\Release\大概是為忙碌的人做的驗算器.pdb
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\obj\Release\大概是為忙碌的人做的驗算器.exe
+C:\Users\123\Desktop\大概是\WindowsFormsApplication2\obj\Release\大概是為忙碌的人做的驗算器.pdb
